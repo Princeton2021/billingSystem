@@ -1,3 +1,4 @@
+# Build a billing system at check out counter - customer has items in his cart and wants to pay the bill
 from collections import defaultdict
 
 class Store:
